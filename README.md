@@ -17,7 +17,7 @@ Interesado en Backend, diseño de sistemas, infraestructura y cloud.
 
 <h3>Contacta conmigo.</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/braulio-ch%C3%A1vez-3b6631227/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -29,19 +29,17 @@ Interesado en Backend, diseño de sistemas, infraestructura y cloud.
 ###
 
 <h3 align="left">Tecnologias y lenguajes.</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastapi" />
+<h4>Stack principal</h4>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastapi,react" height="40"/>
 </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css" />
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,mysql" height="40"/>
 </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,mysql" />
+<h4>Infraestructura</h4>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,aws,terraform,jenkins" height="40"/>
 </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,kubernetes,aws,terraform,jenkins" />
-</p>
-<h4 align="left"></h4>
 
 
 
