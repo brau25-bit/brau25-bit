@@ -41,7 +41,7 @@
 </p>
 <h4 align="left">DevOps y Cloud</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,linux,aws,postman,jenkins,terraform,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,kubernetes,aws,terraform,jenkins" />
 </p>
 <h4 align="left"></h4>
 
