@@ -6,7 +6,7 @@ Ingeniero en Sistemas Computacionales.<br>
 Interesado en Backend, diseño de sistemas, infraestructura y cloud.
 </p>
 <br>
-  - Actualmente profundizando en diseño de sistemas y arquitectura cloud (AWS)<br>
+<p>🚀 Actualmente: Diseño de sistemas + AWS</p>
 <h3>🌎 Idiomas</h3>
 
 <ul>
@@ -28,7 +28,7 @@ Interesado en Backend, diseño de sistemas, infraestructura y cloud.
 
 ###
 
-<h3 align="left">Tecnologias y lenguajes.</h3>
+<h3 align="left">Stack tecnológico.</h3>
 <h4>Stack principal</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,fastapi,react" height="40"/>
