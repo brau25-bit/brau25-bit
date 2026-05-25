@@ -3,8 +3,9 @@
 
 <p align="left">Ingeniero en Sistemas Computacionales enfocado en Backend, diseño de sistemas y despliegue de infraestructura.<br><br>
   - Estoy trabajando en el desarrollo de un sistema de reportes para la delegación Tláhuac<br>
-  - Actualmente profundizando en diseño de sistemas y arquitectura cloud (AWS)
+  - Actualmente profundizando en diseño de sistemas y arquitectura cloud (AWS)<br>
   - Hablo tres idiomas:
+  
   <ul>
     <li>Español - nativo</li>
     <li>Inglés - B2</li>
