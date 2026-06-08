@@ -1,13 +1,21 @@
-<h1 align="left">👋 Hola! Soy Braulio Chávez</h1>
-
-
+<h1 align="left">Hola! Soy Braulio Chávez</h1>
+<p>Backend | Cloud | DevOps</p>
 <p align="left">
-Ingeniero en Sistemas Computacionales.<br>
-Interesado en Backend, diseño de sistemas, infraestructura y cloud.
+  <a href="https://www.linkedin.com/in/braulio-ch%C3%A1vez-3b6631227/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+   <a href="mailto:brauliochaveza@gmail.com?subject=Hola&body=Te%20contacto%20desde%20GitHub" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
 </p>
+
+<h2>Acerca de mí</h2>
+<p align="left">
+Soy Ingeniero en Sistemas Computacionales de la Ciudad de México. Interesado en Backend, diseño de sistemas, infraestructura y cloud.
+</p>
+
 <br>
-<p>🚀 Actualmente: Diseño de sistemas + AWS</p>
-<h3>🌎 Idiomas</h3>
+<h3>Idiomas</h3>
 
 <ul>
   <li>🇲🇽 Español — Nativo</li>
@@ -15,18 +23,7 @@ Interesado en Backend, diseño de sistemas, infraestructura y cloud.
   <li>🇨🇳 Chino mandarín — HSK2</li>
 </ul>
 
-<h3>Contacta conmigo.</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/braulio-ch%C3%A1vez-3b6631227/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-   <a href="mailto:brauliochaveza@gmail.com?subject=Hola&body=Te%20contacto%20desde%20GitHub">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
-
-###
+****
 
 <h3 align="left">Stack tecnológico.</h3>
 <h4>Stack principal</h4>
