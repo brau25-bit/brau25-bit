@@ -28,7 +28,7 @@ Soy Ingeniero en Sistemas Computacionales de la Ciudad de México. Interesado en
 <h3 align="left">Stack tecnológico.</h3>
 <h4>Stack principal</h4>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,express,fastapi,react" height="40"/>
+    <img src="https://skillicons.dev/icons?i=go,js,ts,python,nodejs,express,fastapi,react" height="40"/>
 </p>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" height="40"/>
