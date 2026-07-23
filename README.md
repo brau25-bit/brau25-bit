@@ -35,7 +35,7 @@ Soy Ingeniero en Sistemas Computacionales de la Ciudad de México. Interesado en
 </p>
 <h4>Infraestructura</h4>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,terraform,jenkins,githubactions" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,terraform,githubactions" height="40"/>
 </p>
 
 
